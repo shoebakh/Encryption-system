@@ -42,6 +42,7 @@ MENU:
 
 ```bash
 python encryption_system.py
+```
 
 # Follow the prompts to choose the encryption method and enter the text.
 # EXAMPLE:-
@@ -56,11 +57,12 @@ Enter your encryption choice: 1
 Enter the sentence for encryption: Hello World!
 Specify shift: 3
 Khoor Zruog!
-###📦 File Structure
+
+### 📦 File Structure
 encryption_system.py     # Main Python script with encryption logic
 README.md                # Project documentation
 
-🛠️ Implementation Highlights
+# 🛠️ Implementation Highlights
 
 Uses match-case (Python 3.10+) for cleaner control flow
 string module for character operations
